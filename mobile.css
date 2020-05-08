@@ -1,0 +1,213 @@
+/* mobile */
+@media (min-width: 320px) and (max-width: 767px){
+
+
+    body{
+        width: 50%;
+    }
+    .top-nav{
+
+     display:block;
+     height: auto;
+     width: 206%;
+     
+    
+       
+     }
+
+     .icon{
+        display: block;
+        font-size: 17px;
+        margin-left: 95px;
+        margin-top: 0px;
+        padding-top: 8px;
+     }
+
+     .icon i {
+        padding: 4px;
+    }
+
+     .para{
+        margin-top: 20px;
+        margin-left: -70px;
+        text-align: center;
+    }
+
+     
+
+     .right{
+        text-align: center;
+        padding-bottom: 12px;
+
+     }
+
+     .right button{
+        margin: 2px;
+
+     }
+
+     .nav-bar{
+        width: 206%;
+      
+     }
+
+     .logo{
+        margin-left: 0;
+
+     }
+
+     .navigation{
+         margin-left: 0;
+
+     }
+
+    .carousel{
+        width: 144%;
+    }
+
+    .marque{
+        width: 194%;
+        margin-left: 0;
+    }
+
+    .news{
+        padding-left: 0;
+        margin-left: 0;
+        width: 228%;
+    }
+
+    .intro{
+        width: 206%;
+        
+       
+    }
+
+    .intro h1{
+        font-size: 35px;
+    }
+
+    .intro p{
+        margin-left: 0;
+
+    }
+
+   .paraa {
+    margin: 0px -29px 0 27px;
+
+    }
+    .progress{
+      
+        width: 206%;
+        display: block;
+        text-align: center;
+    }
+    
+
+    .one img{
+        margin-left: -69px;
+    margin-top: 10px;
+    }
+
+    .doing{
+        width: 206%;
+    }
+    .doing h1{
+        font-size: 30px;
+    }
+    .main{
+        width: 206%;
+    }
+    .container{
+        width: 150%;
+        display: block;
+        margin-left: 97px;
+    }
+
+    .mainDiv{
+        display: block;
+    }
+
+    .service {
+        width: 60%;
+        margin-left: -90px;
+        margin-top: 21px;
+    }
+   
+
+    .mission{
+        margin-left: 19px;
+        width: 187%;
+    }
+    .subDiv{
+        width: 111%;
+        display: block;
+        margin: 0 20px 0 20px;
+    }
+   
+
+    .two{
+        width: 86%;
+    
+    }
+
+    .events{
+        margin-top: -20px;
+
+    }
+
+    .gallery{
+        width: 123%;
+        margin-left: 80px;
+    }
+
+    .images{
+        display: block;
+        text-align: center;
+        
+    }
+
+    .images img {
+        width: 149%;
+        height: 33%;
+        padding: 11px;
+        display: block;
+        margin-left: -59px;
+    }
+    .footer{
+        width: 206%;
+        font-size: 15px;
+        display: block;
+    }
+
+.left{
+    margin-left: -36px;
+    width: 120%;
+
+    }
+   
+  
+    .copyright{
+        width: 206%;
+    }
+
+    .center{
+        margin-top: 20px;
+        margin-left: -36px;
+
+
+    }
+
+    .social{
+
+        margin-top: 20px;
+        margin-left: -36px;
+
+
+    }
+    
+    .topUp {
+        position: fixed;
+        bottom: 31px;
+        left: 268px;
+        text-align: start;
+    }

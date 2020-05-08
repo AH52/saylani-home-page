@@ -1,0 +1,757 @@
+
+
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+  
+.top-nav{
+    background-color: #316dc3;
+    width: 100%;
+    height:50px ;
+    display: flex;
+    justify-content: space-evenly;
+   
+   
+}
+
+.icon{
+  
+    color: white;
+    margin-left: 60px;
+    margin-top: 10px;
+ 
+  }
+
+  .icon i{
+      padding: 10px;
+      
+  }
+
+.para p{
+    
+    margin-top: 15px;
+    margin-left: 80px;
+    
+   color: white;
+   flex-grow: 3;
+   font-size: 15px;
+    
+}
+
+.right{
+    margin-top: 10px;
+   
+}
+
+.right button{
+    color: green;
+    padding: 5px 10px;
+    font-size: small;
+    border: 1px solid green;
+}
+
+
+
+
+.nav-bar{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: #f7f8fa;
+    display: flex;
+    justify-content: end;
+}
+.logo{
+    display: inline;
+    padding-right: 30px;
+    padding-left: 20px;
+   margin-left: 80px;
+  
+
+   
+}
+
+.logo img{
+    width: 200px;
+    height: 60px;
+}
+
+
+.navigation{
+ margin-left: 220px;
+  
+
+
+}
+
+
+.navigation .home{
+    color: white;
+    background-color:#316dc3 ;
+    border: 2px solid #316dc3;
+    border-radius: 20px;
+    padding: 3px 10px;
+    font-size: 15px;
+
+}
+.link{
+    color: black;
+    text-decoration: none;
+    padding: 3px 10px;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.link:hover{
+    color: white;
+    background-color:#316dc3 ;
+    border: 2px solid #316dc3;
+    border-radius: 20px;
+}
+.news{
+    background-color: white;
+    margin-top: -3px;
+    padding: 10px;
+
+}
+.marque{
+    display: flex;
+    background-color: #316dc3 ;
+    width: 90%;
+    height: 25px;
+    margin: 6px 25px 0 70px;
+    color: white;
+    justify-content: center;
+
+}
+
+.intro{
+    text-align: center;
+    margin-top: 60px;
+    padding-top: 40px;
+    font-family: sans-serif;
+    background-color: #f7f8fa;
+    
+   
+}
+
+.green{
+    color: green;
+
+}
+.blue{
+    color: blue;
+}
+
+.gborder{
+    border-bottom: 2px solid green;
+    color: #f7f8fa;
+
+}
+
+.img{
+    padding: 10px;
+
+}
+
+.bborder{
+    border-bottom: 2px solid blue;
+    color: #f7f8fa;
+}
+
+.doing{
+    text-align: center;
+    padding-top: 40px;
+    font-family: sans-serif;
+    background-color: #f7f8fa;
+    
+   
+}
+
+.intro p{
+    color: grey;
+    text-align: justify;
+    margin: 0 55px 0 55px;
+    padding: 15px;
+}
+
+.paraa{
+    margin: 0px 145px 0px 145px;
+    
+    
+}
+
+.progress{
+    display: flex;
+    background-color: rgba(38, 85, 232, 1);
+    justify-content: space-evenly;
+    height: auto;
+    padding: 60px 10px;
+}
+
+.one{
+    
+    color: white;
+}
+
+.one h1{
+    font-size: 55px;
+}
+
+.one img{
+    height: 40px;
+    padding-left: 72px;
+
+
+}
+
+.white{
+    font-weight: bold;
+    font-size: 15px;
+
+    
+}
+
+.greenn{
+    font-weight: bold;
+    font-size: 15px;
+    color: rgb(0, 255, 0);
+}
+
+.main{
+   
+    padding-top: 20px;
+    padding-bottom: 40px;
+    background-color: #f7f8fa;
+}
+
+.service{
+    border: 2px solid white;
+    background-color: white;
+    box-shadow: 2px grey;
+    padding: 25px;
+    text-align: center;
+    width: 30%;
+    box-shadow: 2px 3px 13px grey;
+    margin: 10px;
+}
+
+.service p{
+    color: #316dc3;
+    padding-top: 14px;
+    font-weight: bolder;
+    font-size: 20px;
+}
+
+.container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    
+    
+}
+
+.mainDiv{
+   
+    display: flex;
+    justify-content: space-around;
+    background-color: white;
+    padding-top: 55px;
+}
+
+.mission{
+    
+    margin-left: 130px;
+}
+
+.events{
+    flex: 1;
+    margin-top: -20px;
+    
+}
+.mission h1{
+    font-size: 25px;
+    font-weight: bold;
+   
+}
+
+.events h1{
+    font-size: 25px;
+    font-weight: bold;
+    margin-top: 20px;
+
+}
+.borderg{
+    border-bottom: 2px solid green;
+  
+}
+
+.subDiv{
+    
+    display: flex;
+    
+    background-color: white;
+}
+
+
+
+.two{
+    background-color: #f7f8fa;
+    border: 1px solid #eeeeee ;
+    text-align: center;
+    padding: 19px 149px 20px 9px;
+    margin: 30px;
+    margin-left: -20px;
+}
+
+.rightEvent{
+    
+    width: 250px;
+    height: 250px;
+    background-color: white;
+}
+
+.gallery{
+
+    text-align: center;
+    margin-top: 60px;
+    padding-top: 40px;
+    font-family: sans-serif;
+    
+}
+
+
+.images{
+    margin-top: 25px;
+}
+.images img{
+    width: 17%;
+    height: 15%;
+    margin: -1px;
+}
+.footer .left{
+    color: #bbb; 
+}
+.footer{
+    background-color: #25272e;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    padding: 60px 30px 85px 52px ;
+    margin-top: 10%;
+}
+.left i{
+    color: #427900;
+}
+.social i{
+    border: 2px solid #316DC3;
+    background-color: #316DC3;
+    font-size: 12px;
+    border-radius: 25px;
+    padding: 8px;
+}
+
+.copyright{
+    color: white;
+    background-color: #316DC3 ;
+    padding: 16px 0px 13px 99px;
+    font-size: 12px;
+}
+
+.topUp{
+    position: fixed;
+    bottom: 10px;
+    right: 30px;
+    
+}
+
+
+/* Laptop */
+
+@media (min-width: 992px) and (max-width: 1199px){
+    .top-nav{
+    
+        width: 123%;
+        
+       
+    }
+
+    .carousel{
+        width: 111%;
+    }
+
+    .marque{
+        width: 105%;
+    }
+
+    .intro{
+        width: 123%;
+    }
+
+    .progress{
+      
+        width: 123%;
+    }
+
+    .doing{
+        width: 123%;
+    }
+
+    .main {
+        width: 123%;
+    }
+
+    .subDiv{
+        width: 84%;
+    }
+
+    .two{
+        width: 94%;
+    }
+
+    .events{
+        margin-top: -20px;
+
+    }
+
+    .gallery{
+        width: 123%;
+    }
+
+    .footer{
+        width: 123%;
+        font-size: 15px;
+    }
+  
+    .copyright{
+        width: 123%;
+    }
+
+}
+
+
+
+/* tablet */
+@media (min-width: 768px) and (max-width: 939px){
+
+    .top-nav{
+
+        height: 20%;
+        width: 123%;
+    
+       
+     }
+
+     .icon{
+         display: block;
+         width: 41%;
+         font-size: 22px;
+         margin-top: 28px;
+
+     }
+
+     .icon i {
+        padding: 4px;
+    }
+
+     .para{
+        display: block;
+        margin-top: 20px;
+        margin-left: -138px;
+
+     }
+
+     .right{
+        display: block;
+
+     }
+
+     .right button{
+        margin: 2px;
+
+     }
+
+     .nav-bar{
+         width: 123%;
+     }
+
+    .carousel{
+        width: 111%;
+    }
+
+    .marque{
+        width: 95%;
+    }
+
+    .intro{
+        width: 123%;
+    }
+
+    .progress{
+      
+        width: 123%;
+    }
+
+    .doing{
+        width: 123%;
+    }
+
+    .main {
+        width: 123%;
+    }
+
+    .subDiv{
+        width: 80%;
+    }
+
+    .two{
+        width: 98%;
+    }
+
+    .events{
+        margin-top: -20px;
+
+    }
+
+    .gallery{
+        width: 123%;
+    }
+
+    .footer{
+        width: 123%;
+        font-size: 15px;
+    }
+
+   
+  
+    .copyright{
+        width: 123%;
+    }
+
+
+    
+}
+
+
+/* mobile */
+@media (min-width: 320px) and (max-width: 767px){
+
+
+    body{
+        width: 50%;
+    }
+    .top-nav{
+
+     display:block;
+     height: auto;
+     width: 206%;
+     
+    
+       
+     }
+
+     .icon{
+        display: block;
+        font-size: 17px;
+        margin-left: 95px;
+        margin-top: 0px;
+        padding-top: 8px;
+     }
+
+     .icon i {
+        padding: 4px;
+    }
+
+     .para{
+        margin-top: 20px;
+        margin-left: -70px;
+        text-align: center;
+    }
+
+     
+
+     .right{
+        text-align: center;
+        padding-bottom: 12px;
+
+     }
+
+     .right button{
+        margin: 2px;
+
+     }
+
+     .nav-bar{
+        width: 206%;
+      
+     }
+
+     .logo{
+        margin-left: 0;
+
+     }
+
+     .navigation{
+         margin-left: 0;
+
+     }
+
+    .carousel{
+        width: 144%;
+    }
+
+    .marque{
+        width: 194%;
+        margin-left: 0;
+    }
+
+    .news{
+        padding-left: 0;
+        margin-left: 0;
+        width: 228%;
+    }
+
+    .intro{
+        width: 206%;
+        
+       
+    }
+
+    .intro h1{
+        font-size: 35px;
+    }
+
+    .intro p{
+        margin-left: 0;
+
+    }
+
+   .paraa {
+    margin: 0px -29px 0 27px;
+
+    }
+    .progress{
+      
+        width: 206%;
+        display: block;
+        text-align: center;
+    }
+    
+
+    .one img{
+        margin-left: -69px;
+    margin-top: 10px;
+    }
+
+    .doing{
+        width: 206%;
+    }
+    .doing h1{
+        font-size: 30px;
+    }
+    .main{
+        width: 206%;
+    }
+    .container{
+        width: 150%;
+        display: block;
+        margin-left: 97px;
+    }
+
+    .mainDiv{
+        display: block;
+    }
+
+    .service {
+        width: 60%;
+        margin-left: -90px;
+        margin-top: 21px;
+    }
+   
+
+    .mission{
+        margin-left: 19px;
+        width: 187%;
+    }
+
+   
+    .subDiv{
+        width: 111%;
+        display: block;
+        margin: 0 20px 0 20px;
+    }
+   
+
+    .two{
+        width: 86%;
+    
+    }
+
+    .events{
+        margin-top: 14px;
+        margin-left: 20px;
+
+    }
+
+    .gallery{
+        width: 123%;
+        margin-left: 80px;
+    }
+
+    .images{
+        display: block;
+        text-align: center;
+        
+    }
+
+    .images img {
+        width: 149%;
+        height: 33%;
+        padding: 11px;
+        display: block;
+        margin-left: -59px;
+    }
+    .footer{
+        width: 206%;
+        font-size: 15px;
+        display: block;
+    }
+
+.left{
+    margin-left: -36px;
+    width: 120%;
+
+    }
+   
+  
+    .copyright{
+        width: 206%;
+    }
+
+    .center{
+        margin-top: 20px;
+        margin-left: -36px;
+
+
+    }
+
+    .social{
+
+        margin-top: 20px;
+        margin-left: -36px;
+
+
+    }
+    
+    .topUp {
+        position: fixed;
+        bottom: 31px;
+        left: 268px;
+        text-align: start;
+    }
+
+
+
+
+}
